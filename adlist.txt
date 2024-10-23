@@ -15,3 +15,6 @@ tools.mouseflow.com
 cdn-test.mouseflow.com
 realtime.luckyorange.com
 api.bugsnag.com
+app.bugsnag.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
