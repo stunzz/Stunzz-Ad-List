@@ -18,3 +18,9 @@ api.bugsnag.com
 app.bugsnag.com
 claritybt.freshmarketer.com
 fwtracks.freshmarketer.com
+widgets.pinterest.com
+metrics1.data.hicloud.com
+metrics5.data.hicloud.com
+browser.sentry-cdn.com
+ads.facebook.com
+advertising-api-eu.amazon.com
