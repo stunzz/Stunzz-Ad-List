@@ -24,4 +24,3 @@ metrics5.data.hicloud.com
 browser.sentry-cdn.com
 ads.facebook.com
 advertising-api-eu.amazon.com
-115.231.78.12
